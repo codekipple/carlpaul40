@@ -98,10 +98,11 @@ p {
     display: flex;
     width: 100%;
     margin-bottom: 2rem;
+    justify-content: center;
 }
 
 .gallery img {
-    height: 300px;
+    max-height: 250px;
 }
 
 img {
