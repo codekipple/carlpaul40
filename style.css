@@ -101,7 +101,7 @@ p {
 }
 
 .gallery img {
-    width: ;
+    height: 300px;
 }
 
 img {
@@ -150,4 +150,10 @@ hr {
     hr {
         margin: 4rem 0;
     }
+}
+
+.notice {
+    font-weight: bold;
+    color: #C1E1C1;
+    font-size: 30px;
 }
